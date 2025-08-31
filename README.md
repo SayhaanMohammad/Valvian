@@ -10,4 +10,5 @@ It includes:
 Built using **HTML, CSS, and JavaScript**. 
 
 tried my best :)
-I did finish it in less than 4 hours after the "quest" was open so 
+I did finish it in less than 4 hours after the "quest" was open , i doubt anybody else did it faster
+Hope to be part of the club!
