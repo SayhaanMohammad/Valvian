@@ -6,6 +6,6 @@ It includes:
 - Carousel with transitions
 - Product grid
 - Footer
-- 
+  
 Built using **HTML, CSS, and JavaScript**.
 tried my best :)
