@@ -5,6 +5,7 @@ It includes:
 - Hero section with grid layout
 - Carousel with transitions
 - Product grid
-- Footer  
+- Footer
+- 
 Built using **HTML, CSS, and JavaScript**.
 tried my best :)
